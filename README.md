@@ -1,6 +1,6 @@
 # 🧮 Métodos Numéricos Computacionais
 
-Este repositório é um conjunto de implementações manuais de métodos numéricos computacionais, inspiradas nas notas de aula do Prof. Paulo César Mappa (CEFET-MG, 2024). O objetivo é apresentar soluções diretas e didáticas — sem usar funções de alto nível como numpy.linalg.solve ou scipy.optimize — para ajudar no entendimento prático da teoria.
+Este repositório é um conjunto de implementações manuais de métodos numéricos computacionais, inspiradas nas notas de aula do Prof. Paulo César Mappa (CEFET-MG, 2024). O objetivo é apresentar soluções diretas e didáticas para ajudar no entendimento prático da teoria.
 
 ---
 
